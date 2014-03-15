@@ -1,0 +1,9 @@
+D:\Учеба\Программирование\Тестовое задание\Test_task - final ver8.01\Test_task\bin\Release\Test_task.exe.config
+D:\Учеба\Программирование\Тестовое задание\Test_task - final ver8.01\Test_task\bin\Release\Test_task.exe
+D:\Учеба\Программирование\Тестовое задание\Test_task - final ver8.01\Test_task\bin\Release\Test_task.pdb
+D:\Учеба\Программирование\Тестовое задание\Test_task - final ver8.01\Test_task\obj\Release\Test_task.csprojResolveAssemblyReference.cache
+D:\Учеба\Программирование\Тестовое задание\Test_task - final ver8.01\Test_task\obj\Release\Test_task.Find_files.resources
+D:\Учеба\Программирование\Тестовое задание\Test_task - final ver8.01\Test_task\obj\Release\Test_task.Properties.Resources.resources
+D:\Учеба\Программирование\Тестовое задание\Test_task - final ver8.01\Test_task\obj\Release\Test_task.csproj.GenerateResource.Cache
+D:\Учеба\Программирование\Тестовое задание\Test_task - final ver8.01\Test_task\obj\Release\Test_task.exe
+D:\Учеба\Программирование\Тестовое задание\Test_task - final ver8.01\Test_task\obj\Release\Test_task.pdb

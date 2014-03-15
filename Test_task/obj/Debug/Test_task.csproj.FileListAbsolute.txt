@@ -1,0 +1,39 @@
+D:\Учеба\Программирование\Тестовое задание\Test_task\Test_task\bin\Debug\Test_task.exe.config
+D:\Учеба\Программирование\Тестовое задание\Test_task\Test_task\bin\Debug\Test_task.exe
+D:\Учеба\Программирование\Тестовое задание\Test_task\Test_task\bin\Debug\Test_task.pdb
+D:\Учеба\Программирование\Тестовое задание\Test_task\Test_task\obj\Debug\Test_task.Find_files.resources
+D:\Учеба\Программирование\Тестовое задание\Test_task\Test_task\obj\Debug\Test_task.Properties.Resources.resources
+D:\Учеба\Программирование\Тестовое задание\Test_task\Test_task\obj\Debug\Test_task.csproj.GenerateResource.Cache
+D:\Учеба\Программирование\Тестовое задание\Test_task\Test_task\obj\Debug\Test_task.exe
+D:\Учеба\Программирование\Тестовое задание\Test_task\Test_task\obj\Debug\Test_task.pdb
+D:\Учеба\Программирование\Тестовое задание\Test_task\Test_task\obj\Debug\Test_task.csprojResolveAssemblyReference.cache
+D:\Учеба\Программирование\Тестовое задание\Test_task - final\Test_task\bin\Debug\Test_task.exe.config
+D:\Учеба\Программирование\Тестовое задание\Test_task - final\Test_task\obj\Debug\Test_task.exe
+D:\Учеба\Программирование\Тестовое задание\Test_task - final\Test_task\obj\Debug\Test_task.pdb
+D:\Учеба\Программирование\Тестовое задание\Test_task - final\Test_task\bin\Debug\Test_task.exe
+D:\Учеба\Программирование\Тестовое задание\Test_task - final\Test_task\bin\Debug\Test_task.pdb
+D:\Учеба\Программирование\Тестовое задание\Test_task - final\Test_task\obj\Debug\Test_task.csprojResolveAssemblyReference.cache
+D:\Учеба\Программирование\Тестовое задание\Test_task - final\Test_task\obj\Debug\Test_task.Find_files.resources
+D:\Учеба\Программирование\Тестовое задание\Test_task - final\Test_task\obj\Debug\Test_task.Properties.Resources.resources
+D:\Учеба\Программирование\Тестовое задание\Test_task - final\Test_task\obj\Debug\Test_task.csproj.GenerateResource.Cache
+D:\Учеба\Программирование\Тестовое задание\Test_task - testing new version 2\Test_task\bin\Debug\Test_task.exe.config
+D:\Учеба\Программирование\Тестовое задание\Test_task - testing new version 2\Test_task\obj\Debug\Test_task.exe
+D:\Учеба\Программирование\Тестовое задание\Test_task - testing new version 2\Test_task\obj\Debug\Test_task.pdb
+D:\Учеба\Программирование\Тестовое задание\Test_task - testing new version 2\Test_task\bin\Debug\Test_task.exe
+D:\Учеба\Программирование\Тестовое задание\Test_task - testing new version 2\Test_task\bin\Debug\Test_task.pdb
+D:\Учеба\Программирование\Тестовое задание\Test_task - testing new version 2\Test_task\obj\Debug\Test_task.csprojResolveAssemblyReference.cache
+D:\Учеба\Программирование\Тестовое задание\Test_task - testing new version 2\Test_task\obj\Debug\Test_task.Find_files.resources
+D:\Учеба\Программирование\Тестовое задание\Test_task - testing new version 2\Test_task\obj\Debug\Test_task.Properties.Resources.resources
+D:\Учеба\Программирование\Тестовое задание\Test_task - testing new version 2\Test_task\obj\Debug\Test_task.csproj.GenerateResource.Cache
+D:\Учеба\Программирование\Тестовое задание\Test_task - Ver8\Test_task\bin\Debug\Test_task.exe.config
+D:\Учеба\Программирование\Тестовое задание\Test_task - Ver8\Test_task\bin\Debug\Test_task.exe
+D:\Учеба\Программирование\Тестовое задание\Test_task - Ver8\Test_task\bin\Debug\Test_task.pdb
+D:\Учеба\Программирование\Тестовое задание\Test_task - Ver8\Test_task\obj\Debug\Test_task.Find_files.resources
+D:\Учеба\Программирование\Тестовое задание\Test_task - Ver8\Test_task\obj\Debug\Test_task.Properties.Resources.resources
+D:\Учеба\Программирование\Тестовое задание\Test_task - Ver8\Test_task\obj\Debug\Test_task.csproj.GenerateResource.Cache
+D:\Учеба\Программирование\Тестовое задание\Test_task - Ver8\Test_task\obj\Debug\Test_task.exe
+D:\Учеба\Программирование\Тестовое задание\Test_task - Ver8\Test_task\obj\Debug\Test_task.pdb
+D:\Учеба\Программирование\Тестовое задание\Test_task - Ver8\Test_task\obj\Debug\Test_task.csprojResolveAssemblyReference.cache
+D:\Учеба\Программирование\Тестовое задание\Test_task - final ver8.01\Test_task\bin\Debug\Test_task.exe.config
+D:\Учеба\Программирование\Тестовое задание\Test_task - final ver8.01\Test_task\obj\Debug\Test_task.exe
+D:\Учеба\Программирование\Тестовое задание\Test_task - final ver8.01\Test_task\obj\Debug\Test_task.pdb
