@@ -7,3 +7,6 @@ D:\Учеба\Программирование\Тестовое задание\T
 D:\Учеба\Программирование\Тестовое задание\Test_task - final ver8.01\Test_task\obj\Release\Test_task.csproj.GenerateResource.Cache
 D:\Учеба\Программирование\Тестовое задание\Test_task - final ver8.01\Test_task\obj\Release\Test_task.exe
 D:\Учеба\Программирование\Тестовое задание\Test_task - final ver8.01\Test_task\obj\Release\Test_task.pdb
+D:\Учеба\Программирование\GitHub\Test_task - final ver8.01\Test_task\bin\Release\Test_task.exe.config
+D:\Учеба\Программирование\GitHub\Test_task - final ver8.01\Test_task\obj\Release\Test_task.exe
+D:\Учеба\Программирование\GitHub\Test_task - final ver8.01\Test_task\obj\Release\Test_task.pdb
